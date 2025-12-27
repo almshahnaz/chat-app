@@ -1,3 +1,5 @@
-module github.com/chat-app
+module github.com/almshahnaz/chat-app
 
 go 1.25.5
+
+require github.com/gorilla/websocket v1.5.3 // indirect
